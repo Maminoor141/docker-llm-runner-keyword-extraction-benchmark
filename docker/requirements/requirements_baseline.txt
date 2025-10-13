@@ -1,0 +1,8 @@
+nltk
+rake-nltk
+scikit-learn
+keybert
+spacy
+sentence-transformers
+tqdm
+pandas

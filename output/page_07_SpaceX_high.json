@@ -1,0 +1,42 @@
+{
+    "primary_keywords": [
+        "SpaceX",
+        "Space Exploration Technologies Corp.",
+        "Elon Musk"
+    ],
+    "secondary_keywords": [
+        "rocket propulsion",
+        "reusable launch vehicles",
+        "human spaceflight",
+        "satellite constellation technology",
+        "Falcon 1",
+        "Falcon 9 rocket",
+        "Dragon 1 capsule",
+        "Falcon Heavy",
+        "Starlink internet satellite constellation"
+    ],
+    "key_phrases": [
+        "world's dominant space launch provider",
+        "governmental contracts",
+        "self-sustaining colony on Mars",
+        "first successful first-stage landing",
+        "re-launch of the first stage",
+        "COTS contracts",
+        "Commercial Resupply Services missions",
+        "Starlink internet satellite constellation"
+    ],
+    "long_tail_phrases": [
+        "Starbase development site in Starbase, Texas",
+        "more than 450 times",
+        "1\u20133 launches a week",
+        "first operational satellite of the Starlink internet satellite constellation came online"
+    ],
+    "evidence_sentences": [
+        "SpaceX is the world's dominant space launch provider",
+        "SpaceX was founded by Elon Musk in 2002",
+        "In 2015 and re-launch of the first stage occurred",
+        "The company demonstrated the first successful first-stage landing in 2015",
+        "In 2019, the first operational satellite of the Starlink internet satellite constellation came online"
+    ],
+    "must_include": []
+}

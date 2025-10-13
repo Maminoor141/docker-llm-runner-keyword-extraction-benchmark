@@ -1,0 +1,47 @@
+{
+    "primary_keywords": [
+        "Video game",
+        "computer game",
+        "electronic game"
+    ],
+    "secondary_keywords": [
+        "joystick",
+        "controller",
+        "keyboard",
+        "motion sensing device",
+        "display device",
+        "audio",
+        "haptic technology",
+        "microphone",
+        "webcam",
+        "arcade video game",
+        "console games",
+        "computer games",
+        "mobile gaming",
+        "virtual reality",
+        "augmented reality"
+    ],
+    "key_phrases": [
+        "interaction with a user interface",
+        "visual feedback",
+        "television set",
+        "computer monitor",
+        "flat-panel display",
+        "touchscreen",
+        "handheld devices",
+        "virtual reality headset",
+        "in-game chatting",
+        "livestreaming",
+        "hardware platform",
+        "genre of gameplay",
+        "target audience",
+        "first video game",
+        "arcade video game Computer Space"
+    ],
+    "long_tail_phrases": [],
+    "evidence_sentences": [
+        "A video game, computer game, or simply game, is an electronic game that involves interaction with a user interface or input device (such as a joystick, controller, keyboard, or motion sensing device) to generate visual feedback from a display device"
+    ],
+    "confidence": 1.0,
+    "must_include": []
+}

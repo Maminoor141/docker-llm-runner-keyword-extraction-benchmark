@@ -1,0 +1,46 @@
+{
+    "primary_keywords": [
+        "Health care",
+        "health professionals",
+        "medicine",
+        "dentistry",
+        "pharmacy",
+        "midwifery",
+        "nursing",
+        "optometry",
+        "audiology",
+        "psychology",
+        "occupational therapy",
+        "physical therapy",
+        "athletic training"
+    ],
+    "secondary_keywords": [
+        "health care access",
+        "financial limitations",
+        "geographical and logistical barriers",
+        "sociocultural expectations",
+        "personal limitations",
+        "lack of ability to communicate",
+        "poor health literacy",
+        "low income",
+        "well-functioning health care system",
+        "World Health Organization (WHO)",
+        "health systems"
+    ],
+    "key_phrases": [
+        "improvement or maintenance of health",
+        "prevention, diagnosis, treatment, amelioration or cure",
+        "primary care, secondary care, tertiary care, and public health",
+        "timely use of personal health services to achieve the best possible health outcomes"
+    ],
+    "long_tail_phrases": [
+        "An efficient health care system can contribute to a significant part of a country's economy, development, and industrialization",
+        "Health systems are the organizations established to meet the health needs of targeted populations"
+    ],
+    "evidence_sentences": [
+        "Health care is delivered by health professionals and allied health fields.",
+        "Providing health care services means 'the timely use of personal health services to achieve the best possible health outcomes'",
+        "According to the World Health Organization (WHO), a well-functioning health care system requires a financing mechanism, a well-trained and adequately paid workforce, reliable information on which to base decisions and policies, and well-maintained health facilities to deliver quality medicines and technologies"
+    ],
+    "must_include": []
+}

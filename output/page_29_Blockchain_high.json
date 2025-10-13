@@ -1,0 +1,40 @@
+{
+    "primary_keywords": [
+        "blockchain",
+        "cryptographic hashes",
+        "timestamp",
+        "transaction data",
+        "Merkle tree",
+        "peer-to-peer",
+        "consensus algorithm",
+        "bitcoin"
+    ],
+    "secondary_keyswords": [
+        "distributed ledger",
+        "growing lists of records",
+        "securely linked together",
+        "data in any given block",
+        "network consensus",
+        "public distributed ledger",
+        "double-spending problem",
+        "payment rail",
+        "private blockchains"
+    ],
+    "key_phrases": [
+        "cryptographic hash of the previous block",
+        "records (blocks)",
+        "transaction data (generally represented as a Merkle tree)",
+        "consequently, blockchain transactions are resistant to alteration",
+        "nodes collectively adhere to a consensus algorithm protocol"
+    ],
+    "long_tail_phrases": [
+        "since each block contains information about the previous block",
+        "A blockchain was created by a person (or group of people) using the name (or pseudonym) Satoshi Nakamoto in 2008"
+    ],
+    "evidence_sentences": [
+        "The blockchain is a distributed ledger with growing lists of records (blocks) that are securely linked together via cryptographic hashes.",
+        "Since each block contains information about the previous block, they effectively form a chain.",
+        "Blockchains are typically managed by a peer-to-peer (P2P) computer network for use as a public distributed ledger."
+    ],
+    "must_include": []
+}

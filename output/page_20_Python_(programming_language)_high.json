@@ -1,0 +1,47 @@
+{
+    "primary_keywords": [
+        "Python",
+        "programming language",
+        "Guido van Rossum"
+    ],
+    "secondary_keywords": [
+        "high-level",
+        "general-purpose",
+        "dynamic typing",
+        "garbage-collected",
+        "structured programming",
+        "object-oriented programming",
+        "functional programming",
+        "Python 3.0",
+        "Python 3.12",
+        "ABC programming language",
+        "Amoeba operating system",
+        "Monty Python's Flying Circus"
+    ],
+    "key_phrases": [
+        "design philosophy emphasizes code readability",
+        "dynamically type-checked",
+        "supports multiple programming paradigms",
+        "Python was conceived in the late 1980s",
+        "Python consistently ranks as one of the most popular programming languages",
+        "widespread use in the machine learning community",
+        "widely taught as an introductory programming language",
+        "Python implementation began in December, 1989",
+        "assumed sole responsibility for the project",
+        "Python's 'benevolent dictator for life'",
+        "Python 2"
+    ],
+    "long_tail_phrases": [],
+    "evidence_sentences": [
+        "Python is a high-level, general-purpose programming language.",
+        "Its design philosophy emphasizes code readability with the use of significant indentation.",
+        "Python is dynamically type-checked and garbage-collected.",
+        "It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming.",
+        "Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language.",
+        "Python consistently ranks as one of the most popular programming languages, and it has gained widespread use in the machine learning community.",
+        "It is widely taught as an introductory programming language.",
+        "Van Rossum assumed sole responsibility for the project, as the lead developer, until 12 July 2018, when he announced his 'permanent vacation' from responsibilities as Python's 'benevolent dictator for life' (BDFL); this title was bestowed on him by the Python community to reflect his long-term commitment as the project's chief decision-maker.",
+        "In January 2019, active Python core developers elected a five-member Steering Council to lead the project."
+    ],
+    "must_include": []
+}

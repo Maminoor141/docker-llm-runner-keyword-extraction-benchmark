@@ -1,0 +1,45 @@
+{
+    "primary_keywords": [
+        "Artificial intelligence",
+        "learning",
+        "reasoning",
+        "problem-solving",
+        "perception",
+        "decision-making"
+    ],
+    "secondary_keywords": [
+        "computational systems",
+        "human intelligence",
+        "field of research",
+        "computer science",
+        "methods and software",
+        "machines",
+        "defined goals",
+        "high-profile applications",
+        "web search engines",
+        "recommendation systems",
+        "virtual assistants",
+        "autonomous vehicles",
+        "generative and creative tools",
+        "superhuman play and analysis",
+        "strategy games",
+        "artificial general intelligence",
+        "AGI"
+    ],
+    "key_phrases": [
+        "capability of computational systems to perform tasks typically associated with human intelligence",
+        "develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals",
+        "various subfields of AI research are centered around particular goals and the use of particular tools",
+        "traditional goals of AI research include learning, reasoning, knowledge representation, planning, natural language processing, perception, and support for robotics"
+    ],
+    "long_tail_phrases": [
+        "Once something becomes useful enough and common enough it's not labeled AI anymore."
+    ],
+    "evidence_sentences": [
+        "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making.",
+        "High-profile applications of AI include advanced web search engines (e.g., Google Search); recommendation systems (used by YouTube, Amazon, and Netflix); virtual assistants (e.g., Google Assistant, Siri, and Alexa); autonomous vehicles (e.g., Waymo); generative and creative tools (e.g., language models and AI art); and superhuman play and analysis in strategy games (e.g., chess and Go).",
+        "Various subfields of AI research are centered around particular goals and the use of particular tools. The traditional goals of AI research include learning, reasoning, knowledge representation, planning, natural language processing, perception, and support for robotics."
+    ],
+    "confidence": 1.0,
+    "must_include": []
+}

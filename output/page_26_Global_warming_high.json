@@ -1,0 +1,58 @@
+{
+    "primary_keywords": [
+        "Climate change",
+        "Global warming",
+        "Fossil fuel burning",
+        "Greenhouse gases",
+        "Carbon dioxide",
+        "Deserts",
+        "Heat waves",
+        "Wildfires",
+        "Arctic",
+        "Storms",
+        "Droughts",
+        "Species",
+        "Ocean heating",
+        "Ocean acidification",
+        "Sea level rise",
+        "Flooding",
+        "Extreme heat",
+        "Food and water scarcity",
+        "Migration",
+        "Conflict"
+    ],
+    "secondary_keywords": [
+        "Earth's climate system",
+        "Previous long-term changes",
+        "Industrial Revolution",
+        "Agricultural practices",
+        "Permafrost",
+        "Glaciers",
+        "Weather extremes",
+        "Mountains",
+        "Coral reefs",
+        "Health",
+        "Adaptation",
+        "Limiting warming"
+    ],
+    "key_phrases": [
+        "warms the lower atmosphere",
+        "releases greenhouse gases",
+        "absorb some of the heat",
+        "primary gas driving global warming",
+        "increased concentration by about 50%",
+        "levels not seen for millions of years",
+        "forcing many species to relocate or become extinct",
+        "ocean acidification and sea level rise"
+    ],
+    "long_tail_phrases": [],
+    "evidence_sentences": [
+        "The current rise in global temperatures is driven by human activities, especially fossil fuel burning since the Industrial Revolution.",
+        "Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases.",
+        "Carbon dioxide, the primary gas driving global warming, has increased in concentration by about 50% since the pre-industrial era to levels not seen for millions of years."
+    ],
+    "confidence": 1.0,
+    "must_include": [
+        "Climate change"
+    ]
+}

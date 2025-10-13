@@ -1,0 +1,57 @@
+{
+    "primary_keywords": [
+        "Climate change",
+        "global warming",
+        "fossil fuel burning",
+        "greenhouse gases",
+        "carbon dioxide",
+        "environment",
+        "Arctic",
+        "storms",
+        "droughts",
+        "species",
+        "ocean heating",
+        "ocean acidification",
+        "sea level rise",
+        "flooding",
+        "extreme heat",
+        "food and water scarcity",
+        "migration",
+        "conflict",
+        "adapting to climate change"
+    ],
+    "secondary_keywords": [
+        "Earth's climate system",
+        "Industrial Revolution",
+        "deserts",
+        "heat waves",
+        "wildfires",
+        "permafrost",
+        "glaciers",
+        "weather extremes",
+        "mountains",
+        "coral reefs"
+    ],
+    "key_phrases": [
+        "the ongoing increase in global average temperature",
+        "absorb some of the heat",
+        "warming the lower atmosphere",
+        "levels not seen for millions of years",
+        "increasingly large impact on the environment",
+        "forcing many species to relocate or become extinct",
+        "even if efforts to minimize future warming are successful"
+    ],
+    "long_tail_phrases": [
+        "Rapid environmental change in mountains, coral reefs, and the Arctic is forcing many species to relocate or become extinct.",
+        "Climate change threatens people with increased flooding, extreme heat, increased food and water scarcity, more disease, and economic loss."
+    ],
+    "evidence_sentences": [
+        "Present-day climate change includes both global warming\u2014the ongoing increase in global average temperature\u2014and its wider effects on Earth's climate system.",
+        "Fossil fuel use, deforestation, and some agricultural and industrial practices release greenhouse gases.",
+        "Carbon dioxide, the primary gas driving global warming, has increased in concentration by about 50% since the pre-industrial era."
+    ],
+    "confidence": 1.0,
+    "must_include": [
+        "Climate change"
+    ]
+}

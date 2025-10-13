@@ -1,0 +1,41 @@
+{
+    "primary_keywords": [
+        "Sport",
+        "physical activity",
+        "game",
+        "competitive",
+        "organized",
+        "entertainment"
+    ],
+    "secondary_keywords": [
+        "participants",
+        "team",
+        "single person",
+        "open",
+        "closed",
+        "tie",
+        "draw",
+        "champion",
+        "rules",
+        "customs",
+        "judges",
+        "winning"
+    ],
+    "key_phrases": [
+        "maintains or improves physical ability and skills",
+        "major competitions admitting only sports meeting this definition",
+        "non-physical activities claim recognition as mind sports",
+        "governed by a set of rules or customs",
+        "Winning can be determined by physical events such as scoring goals or crossing a line first"
+    ],
+    "long_tail_phrases": [
+        "arranged in a tournament format, producing a champion",
+        "followed in some cases by playoffs"
+    ],
+    "evidence_sentences": [
+        "Sport is a physical activity or game, often competitive and organized, that maintains or improves physical ability and skills.",
+        "Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs.",
+        "Some organisations, such as the Council of Europe, preclude activities without any physical element from classification as sports."
+    ],
+    "must_include": []
+}

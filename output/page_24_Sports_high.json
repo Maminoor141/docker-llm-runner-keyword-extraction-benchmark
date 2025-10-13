@@ -1,0 +1,58 @@
+{
+    "primary_keywords": [
+        "Sport",
+        "physical activity",
+        "game",
+        "competitive",
+        "organized"
+    ],
+    "secondary_keywords": [
+        "enjoyment",
+        "entertainment",
+        "spectators",
+        "team",
+        "single person",
+        "tie",
+        "draw",
+        "tournament",
+        "champion",
+        "rules",
+        "customs",
+        "judges",
+        "chess",
+        "bridge",
+        "draughts",
+        "Go",
+        "xiangqi"
+    ],
+    "key_phrases": [
+        "maintains or improves physical ability and skills",
+        "may provide enjoyment to participants and entertainment to spectators",
+        "number of participants can vary",
+        "competition format",
+        "open or closed",
+        "annual champion",
+        "regular sports season",
+        "playoffs",
+        "system of activities based in physical athleticism or physical dexterity",
+        "major competitions admitting only sports meeting this definition"
+    ],
+    "long_tail_phrases": [
+        "winning can be determined by physical events such as scoring goals or crossing a line first",
+        "it can also be determined by judges who are scoring elements of the sporting performance, including objective or subjective measures such as technical performance or artistic impression"
+    ],
+    "evidence_sentences": [
+        "Sport is a physical activity or game...",
+        "The number of participants in a particular sport can vary from hundreds of people to a single individual...",
+        "Competitions may allow a 'tie' or 'draw'",
+        "They also may be arranged in a tournament format, producing a champion...",
+        "Sport is generally recognised as system of activities based in physical athleticism or physical dexterity...",
+        "Some organisations, such as the Council of Europe, preclude activities without any physical element from classification as sports...",
+        "The International Olympic Committee who oversee the Olympic Games recognises both chess and bridge as sports...",
+        "SportAccord, the international sports federation association, recognises five non-physical sports: chess, bridge, draughts, Go and xiangqi...",
+        "However, they limit the number of mind games which can be admitted as sports...",
+        "Winning can be determined by physical events such as scoring goals or crossing a line first...",
+        "It can also be determined by judges who are scoring elements of the sporting performance..."
+    ],
+    "must_include": []
+}

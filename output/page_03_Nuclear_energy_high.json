@@ -1,0 +1,32 @@
+{
+    "primary_keywords": [
+        "Nuclear energy",
+        "Nuclear power",
+        "Nuclear binding energy",
+        "Nuclear potential energy"
+    ],
+    "secondary_keywords": [
+        "sustained nuclear fission",
+        "sustained nuclear fusion",
+        "generate heat and electricity",
+        "fuse or split a nucleus of an atom",
+        "particles inside an atomic nucleus"
+    ],
+    "key_phrases": [
+        "use of",
+        "to generate",
+        "needed to",
+        "potential energy"
+    ],
+    "long_tail_phrases": [],
+    "evidence_sentences": [
+        "Nuclear energy may refer to: ...",
+        "Nuclear power, the use of sustained nuclear fission or nuclear fusion to generate heat and electricity ...",
+        "Nuclear binding energy, the energy needed to fuse or split a nucleus of an atom ...",
+        "Nuclear potential energy, the potential energy of the particles inside an atomic nucleus ..."
+    ],
+    "confidence": 1.0,
+    "must_include": [
+        "Title: Nuclear energy"
+    ]
+}

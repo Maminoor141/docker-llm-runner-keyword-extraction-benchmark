@@ -1,0 +1,39 @@
+{
+    "primary_keywords": [
+        "Electric vehicle",
+        "EV",
+        "electricity",
+        "propulsion",
+        "motor vehicle"
+    ],
+    "secondary_keywords": [
+        "Second Industrial Revolution",
+        "DC and AC electric motors",
+        "range anxiety",
+        "Internal combustion engines",
+        "plug-in hybrid electric vehicles",
+        "battery electric cars",
+        "tailpipe emissions",
+        "government incentives"
+    ],
+    "key_phrases": [
+        "electric boats and submersibles",
+        "electric aircraft and electric spacecraft",
+        "mass adoption of private electric vehicles",
+        "electricity-powered locomotion",
+        "plug-in hybrid electric vehicles use electric motors as the primary propulsion method",
+        "battery electric cars did not become practical options for the consumer market until the 2010s",
+        "Progress in batteries, electric motors and power electronics"
+    ],
+    "long_tail_phrases": [
+        "electricity was among the preferred methods for motor vehicle propulsion as it provided a level of quietness, comfort and ease of operation that could not be achieved by the gasoline engine cars of the time",
+        "As a means of reducing tailpipe emissions of carbon dioxide and other pollutants, and to reduce use of fossil fuels"
+    ],
+    "evidence_sentences": [
+        "An electric vehicle (EV) is a motor vehicle whose propulsion is powered fully or mostly by electricity.",
+        "Using electricity was among the preferred methods for motor vehicle propulsion as it provided a level of quietness, comfort and ease of operation that could not be achieved by the gasoline engine cars of the time.",
+        "Plug-in hybrid electric vehicles use electric motors as the primary propulsion method, rather than as a supplement.",
+        "Progress in batteries, electric motors and power electronics has made electric cars more feasible than during the 20th century."
+    ],
+    "must_include": []
+}

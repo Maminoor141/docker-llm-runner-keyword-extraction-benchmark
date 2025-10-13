@@ -1,0 +1,46 @@
+{
+    "primary_keywords": [
+        "Renewable energy",
+        "green energy",
+        "solar energy",
+        "wind power",
+        "hydropower",
+        "bioenergy",
+        "geothermal power",
+        "nuclear power",
+        "electricity",
+        "photovoltaic solar",
+        "onshore wind",
+        "fossil fuel"
+    ],
+    "secondary_keywords": [
+        "renewable natural resources",
+        "replenished on a human timescale",
+        "electrification",
+        "controllable renewable energy sources",
+        "variable renewable energy sources"
+    ],
+    "key_phrases": [
+        "made from",
+        "widely used",
+        "deployed together with",
+        "cheaper over the past 30 years",
+        "significant cost reductions",
+        "competitive with traditional fossil fuels",
+        "newly installed electricity capacity",
+        "global electricity supply",
+        "projected to reach over 45% by 2030"
+    ],
+    "long_tail_phrases": [
+        "Renewable energy installations can be large or small and are suited for both urban and rural areas.",
+        "This has several benefits: electricity can move heat and vehicles efficiently and is clean at the point of consumption."
+    ],
+    "evidence_sentences": [
+        "The most widely used renewable energy types are solar energy, wind power, and hydropower.",
+        "In contrast, controllable renewable energy sources include dammed hydroelectricity, bioenergy, or geothermal power.",
+        "From 2011 to 2021, renewable energy grew from 20% to 28% of global electricity supply.",
+        "Power from the sun and wind accounted for most of this increase, growing from a combined 2% to 10%.",
+        "In 2024, renewables accounted for over 30% of global electricity generation."
+    ],
+    "must_include": []
+}

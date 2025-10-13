@@ -1,0 +1,61 @@
+{
+    "primary_keywords": [
+        "5G",
+        "telecommunications",
+        "4G",
+        "cellular network technology",
+        "higher download speeds",
+        "lower latency",
+        "5G New Radio (5G NR)",
+        "3rd Generation Partnership Project (3GPP)",
+        "International Telecommunication Union (ITU)",
+        "IMT-2020 requirements",
+        "increased bandwidth",
+        "extended reality (XR)",
+        "autonomous vehicles",
+        "remote surgery",
+        "industrial automation",
+        "fixed wireless access (FWA)",
+        "cable Internet",
+        "Internet of things (IoT)",
+        "smart cities",
+        "connected infrastructure",
+        "industrial IoT",
+        "automated manufacturing processes",
+        "millions of IoT devices",
+        "real-time sensor data processing",
+        "edge computing",
+        "non-terrestrial networks (NTN)",
+        "satellites",
+        "high-altitude platforms"
+    ],
+    "secondary_keywords": [
+        "global unified standard",
+        "peak speed of 10 Gbit/s",
+        "near-instantaneous communication",
+        "cellular base stations and antennae",
+        "general Internet service provider (ISP)",
+        "real-time data exchange"
+    ],
+    "key_phrases": [
+        "as the successor to the fourth generation (4G)",
+        "offer not only higher download speeds",
+        "substantially lower latency",
+        "developed by the 3rd Generation Partnership Project (3GPP)",
+        "competing with existing technologies such as cable Internet"
+    ],
+    "long_tail_phrases": [
+        "while also facilitating new applications in the machine-to-machine communication and the Internet of things (IoT)",
+        "unlike 4G, which was primarily designed for mobile broadband",
+        "provide global coverage, including remote and underserved areas"
+    ],
+    "evidence_sentences": [
+        "In telecommunications, 5G is the 'fifth generation' of cellular network technology...",
+        "Compared to 4G, 5G networks offer not only higher download speeds...",
+        "There is one global unified 5G standard: 5G New Radio (5G NR)...",
+        "These features make 5G particularly suited for applications requiring real-time data exchange...",
+        "Unlike 4G, which was primarily designed for mobile broadband, 5G can handle millions of IoT devices with stringent performance requirements..."
+    ],
+    "confidence": 1.0,
+    "must_include": []
+}

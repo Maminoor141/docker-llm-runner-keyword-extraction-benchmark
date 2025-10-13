@@ -1,0 +1,56 @@
+{
+    "primary_keywords": [
+        "Health care",
+        "health professionals",
+        "disease",
+        "illness",
+        "injury",
+        "mental impairments"
+    ],
+    "secondary_keywords": [
+        "improvement or maintenance of health",
+        "prevention",
+        "diagnosis",
+        "treatment",
+        "amelioration",
+        "cure",
+        "medicine",
+        "dentistry",
+        "pharmacy",
+        "midwifery",
+        "nursing",
+        "optometry",
+        "audiology",
+        "psychology",
+        "occupational therapy",
+        "physical therapy",
+        "athletic training"
+    ],
+    "key_phrases": [
+        "providing primary care",
+        "secondary care",
+        "tertiary care",
+        "public health",
+        "well-functioning health care system",
+        "financing mechanism",
+        "well-trained and adequately paid workforce",
+        "reliable information",
+        "well-maintained health facilities",
+        "quality medicines and technologies",
+        "efficient health care system"
+    ],
+    "long_tail_phrases": [
+        "factors to consider in terms of health care access include financial limitations",
+        "geographical and logistical barriers",
+        "sociocultural expectations",
+        "personal limitations",
+        "lack of ability to communicate with health care providers",
+        "poor health literacy",
+        "low income"
+    ],
+    "evidence_sentences": [
+        "Health care is delivered by health professionals and allied health fields.",
+        "The term includes work done in providing primary care, secondary care, tertiary care, and public health."
+    ],
+    "must_include": []
+}

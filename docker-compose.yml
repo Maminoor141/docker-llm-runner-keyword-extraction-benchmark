@@ -1,0 +1,68 @@
+version: '3.9'
+
+services:
+  ollama:
+    build:
+      context: .
+      dockerfile: docker/ollama.Dockerfile
+    volumes:
+      - ollama_data:/root/.ollama
+    healthcheck:
+      test: ["CMD-SHELL", "ollama list | grep mistral:latest"]
+      interval: 10s
+      timeout: 5s
+      retries: 20
+      start_period: 60s
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+  api:
+    build:
+      context: .
+      dockerfile: docker/api.Dockerfile
+    depends_on:
+      ollama:
+        condition: service_healthy
+    ports:
+      - "5001:5001"
+
+  baseline-processor:
+    build:
+      context: .
+      dockerfile: docker/baseline.Dockerfile
+    volumes:
+      - ./dataset:/app/dataset
+      - ./baseline_outputs:/app/baseline_outputs
+
+  text-processor:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    depends_on:
+      ollama:
+        condition: service_healthy
+    volumes:
+      - ./dataset:/app/dataset
+      - ./output:/app/output
+    
+  comparison:
+    build:
+      context: .
+      dockerfile: docker/comparison.Dockerfile
+    depends_on:
+      baseline-processor:
+        condition: service_completed_successfully
+      text-processor:
+        condition: service_completed_successfully
+    volumes:
+      - ./baseline_outputs:/app/baseline_outputs:ro
+      - ./output:/app/output:ro
+      - .:/app
+
+volumes:
+  ollama_data:

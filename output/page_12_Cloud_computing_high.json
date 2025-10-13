@@ -1,0 +1,46 @@
+{
+    "primary_keywords": [
+        "Cloud computing",
+        "ISO",
+        "NIST"
+    ],
+    "secondary_keywords": [
+        "paradigm",
+        "scalable",
+        "elastic pool",
+        "self-service provisioning and administration on-demand",
+        "essential characteristics",
+        "On-demand self-service",
+        "Broad network access",
+        "Resource pooling",
+        "Rapid elasticity",
+        "Measured service"
+    ],
+    "key_phrases": [
+        "a paradigm for enabling network access",
+        "In 2011",
+        "five essential characteristics",
+        "automatically without requiring human interaction",
+        "capabilities are available over the network",
+        "The provider's computing resources are pooled",
+        "Capabilities can be elastically provisioned and released",
+        "Cloud systems automatically control and optimize resource use"
+    ],
+    "long_tail_phrases": [
+        "initial concepts of time-sharing becoming popularized via remote job entry (RJE)",
+        "The 'data center' model, where users submitted jobs to operators to run on mainframes",
+        "By 2023, the International Organization for Standardization (ISO) had expanded and refined the list"
+    ],
+    "evidence_sentences": [
+        "Cloud computing is 'a paradigm for enabling network access to a scalable and elastic pool of shareable physical or virtual resources with self-service provisioning and administration on-demand,' according to ISO.",
+        "Essential characteristics In 2011, the National Institute of Standards and Technology (NIST) identified five 'essential characteristics' for cloud systems.",
+        "Below are the exact definitions according to NIST:",
+        "On-demand self-service: 'A consumer can unilaterally provision computing capabilities,'",
+        "'Broad network access: 'Capabilities are available over the network and accessed through standard mechanisms,'",
+        "'Resource pooling: 'The provider's computing resources are pooled to serve multiple consumers using a multi-tenant model,'",
+        "'Rapid elasticity: 'Capabilities can be elastically provisioned and released,'",
+        "'Measured service: 'Cloud systems automatically control and optimize resource use by leveraging a metering capability,'"
+    ],
+    "confidence": 1.0,
+    "must_include": []
+}

@@ -1,0 +1,58 @@
+{
+    "primary_keywords": [
+        "Mars",
+        "Sun",
+        "Red Planet",
+        "carbon dioxide (CO2)",
+        "atmospheric pressure",
+        "temperature",
+        "cosmic radiation",
+        "water",
+        "gravity",
+        "diameter",
+        "surface area",
+        "fine dust",
+        "terrain",
+        "marsquakes",
+        "volcanoes",
+        "Valles Marineris",
+        "Phobos",
+        "Deimos",
+        "axial tilt",
+        "solar year"
+    ],
+    "secondary_keywords": [
+        "orange-red appearance",
+        "desert-like",
+        "rocky planet",
+        "thinly in the atmosphere",
+        "permafrost",
+        "ice caps",
+        "seasonal CO2 snow",
+        "low Martian gravity",
+        "extinct",
+        "one of the largest canyons"
+    ],
+    "key_phrases": [
+        "the fourth planet from the Sun",
+        "atmospheric temperature ranges from \u2212153 to 20 \u00b0C (\u2212243 to 68 \u00b0F)",
+        "cosmic radiation is high",
+        "forms cirrus clouds, frost, larger polar regions of permafrost and ice caps",
+        "roughly follows a north-south divide",
+        "tallest is Olympus Mons",
+        "4,000 km or 2,500 mi long"
+    ],
+    "long_tail_phrases": [],
+    "evidence_sentences": [
+        "Mars is the fourth planet from the Sun.",
+        "At the average surface level the atmospheric pressure is a few thousandths of Earth's...",
+        "Mars retains some water...",
+        "Its surface gravity is roughly a third of Earth's or double that of the Moon...",
+        "The terrain of Mars roughly follows a north-south divide...",
+        "Geologically, the planet is fairly active with marsquakes trembling underneath the ground...",
+        "Mars has two natural satellites that are small and irregular in shape: Phobos and Deimos...",
+        "A Martian solar year is equal to 1."
+    ],
+    "confidence": 1.0,
+    "must_include": []
+}

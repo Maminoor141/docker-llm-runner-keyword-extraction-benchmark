@@ -1,0 +1,71 @@
+{
+    "primary_keywords": [
+        "5G",
+        "telecommunications",
+        "4G",
+        "cellular network technology",
+        "3GPP",
+        "ITU",
+        "IMT-2020",
+        "5G New Radio (5G NR)",
+        "extended reality (XR)",
+        "autonomous vehicles",
+        "remote surgery",
+        "industrial automation",
+        "Internet of things (IoT)",
+        "fixed wireless access (FWA)",
+        "cable Internet",
+        "machine-to-machine communication",
+        "smart cities",
+        "connected infrastructure",
+        "industrial IoT",
+        "automated manufacturing processes",
+        "non-terrestrial networks (NTN)",
+        "satellites",
+        "high-altitude platforms"
+    ],
+    "secondary_keywords": [
+        "higher download speeds",
+        "peak speed",
+        "substantially lower latency",
+        "near-instantaneous communication",
+        "real-time data exchange",
+        "general Internet service provider (ISP)",
+        "terrestrial infrastructure"
+    ],
+    "key_phrases": [
+        "deployed by mobile operators worldwide since 2019",
+        "offer not only higher download speeds",
+        "peak speed of 10 gigabits per second (Gbit/s)",
+        "enabling near-instantaneous communication",
+        "global unified 5G standard",
+        "developed by the 3rd Generation Partnership Project",
+        "increased bandwidth over 4G",
+        "connect more devices simultaneously",
+        "improving the quality of cellular data services in crowded areas",
+        "particularly suited for applications requiring real-time data exchange",
+        "expected to drive the adoption of 5G",
+        "fixed wireless access (FWA)",
+        "competing with existing technologies such as cable Internet",
+        "facilitating new applications in the machine-to-machine communication and the Internet of things",
+        "unlike 4G, which was primarily designed for mobile broadband",
+        "handle millions of IoT devices"
+    ],
+    "long_tail_phrases": [
+        "cellular base stations and antennae",
+        "real-time sensor data processing",
+        "edge computing",
+        "global coverage",
+        "remote and underserved areas"
+    ],
+    "evidence_sentences": [
+        "In telecommunications, 5G is the 'fifth generation' of cellular network technology, as the successor to the fourth generation (4G), and has been deployed by mobile operators worldwide since 2019.",
+        "Compared to 4G, 5G networks offer not only higher download speeds, with a peak speed of 10 gigabits per second (Gbit/s), but also substantially lower latency, enabling near-instantaneous communication through cellular base stations and antennae.",
+        "There is one global unified 5G standard: 5G New Radio (5G NR), which has been developed by the 3rd Generation Partnership Project (3GPP) based on specifications defined by the International Telecommunication Union (ITU) under the IMT-2020 requirements.",
+        "These features make 5G particularly suited for applications requiring real-time data exchange, such as extended reality (XR), autonomous vehicles, remote surgery, and industrial automation.",
+        "Additionally, the increased bandwidth of 5G over 4G allows them to connect more devices simultaneously and improving the quality of cellular data services in crowded areas.",
+        "Unlike 4G, which was primarily designed for mobile broadband, 5G can handle millions of IoT devices with stringent performance requirements, such as real-time sensor data processing and edge computing."
+    ],
+    "confidence": 1.0,
+    "must_include": []
+}

@@ -1,0 +1,52 @@
+{
+    "primary_keywords": [
+        "Robotics",
+        "design",
+        "construction",
+        "operation",
+        "use",
+        "hazardous",
+        "boring",
+        "repetitive",
+        "unpleasant",
+        "exploring",
+        "assisting",
+        "technological advances"
+    ],
+    "secondary_keywords": [
+        "mechanical engineering",
+        "computer science",
+        "electrical",
+        "control",
+        "software",
+        "information",
+        "electronic",
+        "telecommunication",
+        "materials engineering",
+        "caterpillar tracks",
+        "Origami",
+        "power",
+        "battery",
+        "basic electrical circuit",
+        "petrol-powered"
+    ],
+    "key_phrases": [
+        "interdisciplinary study and practice",
+        "physical structures",
+        "robotic automation algorithms",
+        "helping and assisting humans",
+        "unstable ruins",
+        "space, mines and shipwrecks",
+        "cleaning, monitoring, transporting, assembling",
+        "rapidly growing field"
+    ],
+    "long_tail_phrases": [],
+    "evidence_sentences": [
+        "Robotics is the interdisciplinary study and practice of the design, construction, operation, and use of robots.",
+        "Within mechanical engineering, robotics is the design and construction of the physical structures of robots, while in computer science, robotics focuses on robotic automation algorithms.",
+        "Many robots are built to do jobs that are hazardous to people, such as finding survivors in unstable ruins, and exploring space, mines and shipwrecks.",
+        "Others replace people in jobs that are boring, repetitive, or unpleasant, such as cleaning, monitoring, transporting, and assembling."
+    ],
+    "confidence": 1.0,
+    "must_include": []
+}

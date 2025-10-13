@@ -1,0 +1,50 @@
+{
+    "primary_keywords": [
+        "video game",
+        "computer game",
+        "game"
+    ],
+    "secondary_keywords": [
+        "electronic game",
+        "joystick",
+        "controller",
+        "keyboard",
+        "motion sensing device",
+        "display device",
+        "audiovisual",
+        "speakers",
+        "headphones",
+        "haptic technology",
+        "microphone",
+        "webcam",
+        "arcade video game",
+        "console games",
+        "computer games",
+        "mobile gaming",
+        "virtual reality",
+        "augmented reality",
+        "remote cloud gaming"
+    ],
+    "key_phrases": [
+        "interaction with a user interface or input device",
+        "generate visual feedback from a display device",
+        "audiovisual",
+        "in-game chatting and livestreaming",
+        "hardware platform",
+        "genre of gameplay and target audience",
+        "first video game prototypes",
+        "arcade video game",
+        "home console",
+        "golden age of arcade video games"
+    ],
+    "long_tail_phrases": [],
+    "evidence_sentences": [
+        "A video game is an electronic game that involves interaction with a user interface or input device (such as a joystick, controller, keyboard, or motion sensing device) to generate visual feedback from a display device",
+        "Most modern video games are audiovisual",
+        "Some video games also allow microphone and webcam inputs for in-game chatting and livestreaming",
+        "Video games are typically categorized according to their hardware platform",
+        "The industry grew quickly during the 'golden age' of arcade video games from the late 1970s to early 1980s"
+    ],
+    "confidence": 1.0,
+    "must_include": []
+}

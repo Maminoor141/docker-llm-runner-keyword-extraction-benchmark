@@ -1,0 +1,48 @@
+{
+    "primary_keywords": [
+        "Sustainable energy",
+        "Energy",
+        "Renewable energy sources",
+        "Fossil fuel sources",
+        "Nuclear power",
+        "Carbon capture and storage",
+        "Global greenhouse gas emissions",
+        "Electricity",
+        "Biomass",
+        "Climate change mitigation pathways"
+    ],
+    "secondary_keywords": [
+        "greenhouse gas emissions",
+        "air pollution",
+        "energy poverty",
+        "toxic waste",
+        "natural gas",
+        "coal",
+        "CO2 emissions",
+        "climate impact",
+        "developing countries",
+        "human health",
+        "economies",
+        "radioactive waste",
+        "nuclear proliferation",
+        "accidents"
+    ],
+    "key_phrases": [
+        "meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+        "Generally far more sustainable than fossil fuel sources.",
+        "Role of non-renewable energy sources in sustainable energy is controversial.",
+        "Limiting global warming to 2 \u00b0C (3.6 \u00b0F)",
+        "Universal access to clean electricity"
+    ],
+    "long_tail_phrases": [
+        "Switching from coal to natural gas has environmental benefits, including a lower climate impact, but may lead to a delay in switching to more sustainable options.",
+        "Around 790 million people in developing countries lack access to electricity, and 2.6 billion rely on polluting fuels such as wood or charcoal to cook.",
+        "Cooking with biomass plus fossil fuel pollution causes an estimated 7 million deaths each year."
+    ],
+    "evidence_sentences": [
+        "Energy is sustainable if it 'meets the needs of the present without compromising the ability of future generations to meet their own needs.' Definitions of sustainable energy usually look at its effects on the environment, the economy, and society.",
+        "Renewable energy sources such as wind, hydro, solar, and geothermal energy can cause environmental damage but are generally far more sustainable than fossil fuel sources.",
+        "Nuclear power does not produce carbon pollution or air pollution, but has drawbacks that include radioactive waste, the risk of nuclear proliferation, and the risk of accidents."
+    ],
+    "must_include": []
+}

@@ -1,0 +1,46 @@
+{
+    "primary_keywords": [
+        "SpaceX",
+        "Space Exploration Technologies Corp.",
+        "Elon Musk"
+    ],
+    "secondary_keywords": [
+        "Starbase",
+        "International Space Station",
+        "Falcon 1",
+        "Falcon 9",
+        "Dragon 1",
+        "Falcon Heavy",
+        "Starlink"
+    ],
+    "key_phrases": [
+        "rocket propulsion",
+        "reusable launch vehicles",
+        "human spaceflight",
+        "satellite constellation technology",
+        "world's dominant space launch provider",
+        "governmental contracts",
+        "self-sustaining colony on Mars",
+        "first successful first-stage landing",
+        "re-launch of the first stage",
+        "Commercial Resupply Services missions"
+    ],
+    "long_tail_phrases": [
+        "Starbase development site in Starbase, Texas",
+        "COTS contracts for deliveries to the International Space Station",
+        "more than 450 times, reaching 1\u20133 launches a week",
+        "first operational satellite of the Starlink internet satellite constellation came online"
+    ],
+    "evidence_sentences": [
+        "SpaceX is an American space technology company headquartered at the Starbase development site in Starbase, Texas.",
+        "Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight and satellite constellation technology.",
+        "SpaceX was founded by Elon Musk in 2002 with a vision of decreasing the costs of space launches, paving the way to a self-sustaining colony on Mars.",
+        "In 2008, Falcon 1 successfully launched into orbit after three failed launch attempts.",
+        "By 2012, SpaceX finished all COTS test flights and began delivering Commercial Resupply Services missions to the International Space Station.",
+        "The company demonstrated the first successful first-stage landing in 2015 and re-launch of the first stage in 2017.",
+        "As of May 2025, the company's Falcon 9 rockets have landed and flown again more than 450 times, reaching 1\u20133 launches a week.",
+        "In 2019, the first operational satellite of the Starlink internet satellite constellation came online."
+    ],
+    "confidence": 1.0,
+    "must_include": []
+}
