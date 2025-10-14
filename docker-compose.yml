@@ -1,68 +1,68 @@
-version: '3.9'
+version: '3.9'  # Specify the Docker Compose file format version
 
 services:
   ollama:
     build:
-      context: .
-      dockerfile: docker/ollama.Dockerfile
+      context: .  # Build from the current directory
+      dockerfile: docker/ollama.Dockerfile  # Use the custom Dockerfile for Ollama
     volumes:
-      - ollama_data:/root/.ollama
+      - ollama_data:/root/.ollama  # Persist Ollama model/data files between runs
     healthcheck:
-      test: ["CMD-SHELL", "ollama list | grep mistral:latest"]
-      interval: 10s
-      timeout: 5s
-      retries: 20
-      start_period: 60s
+      test: ["CMD-SHELL", "ollama list | grep mistral:latest"]  # Check if the 'mistral:latest' model is available
+      interval: 10s     # Run the health check every 10 seconds
+      timeout: 5s       # Fail if the check takes longer than 5 seconds
+      retries: 20       # Retry up to 20 times before marking as unhealthy
+      start_period: 60s # Give Ollama 60 seconds to start before health checks begin
     deploy:
       resources:
         reservations:
           devices:
-            - driver: nvidia
-              count: 1
-              capabilities: [gpu]
+            - driver: nvidia        # Use the NVIDIA GPU driver
+              count: 1              # Allocate one GPU to this container
+              capabilities: [gpu]   # Ensure the container can access GPU capabilities
 
   api:
     build:
-      context: .
-      dockerfile: docker/api.Dockerfile
+      context: .  # Build API service from current directory
+      dockerfile: docker/api.Dockerfile  # Use the API-specific Dockerfile
     depends_on:
       ollama:
-        condition: service_healthy
+        condition: service_healthy  # Wait for Ollama to be healthy before starting
     ports:
-      - "5001:5001"
+      - "5001:5001"  # Expose API on port 5001 (host:container)
 
   baseline-processor:
     build:
-      context: .
-      dockerfile: docker/baseline.Dockerfile
+      context: .  # Build baseline processor from current directory
+      dockerfile: docker/baseline.Dockerfile  # Use Dockerfile for baseline processor
     volumes:
-      - ./dataset:/app/dataset
-      - ./baseline_outputs:/app/baseline_outputs
+      - ./dataset:/app/dataset  # Mount local dataset into container
+      - ./baseline_outputs:/app/baseline_outputs  # Store baseline outputs locally
 
   text-processor:
     build:
-      context: .
-      dockerfile: docker/Dockerfile
+      context: .  # Build text processor from current directory
+      dockerfile: docker/Dockerfile  # Use the main Dockerfile for LLM-based text processing
     depends_on:
       ollama:
-        condition: service_healthy
+        condition: service_healthy  # Wait for Ollama model to be ready before running
     volumes:
-      - ./dataset:/app/dataset
-      - ./output:/app/output
-    
+      - ./dataset:/app/dataset  # Mount input dataset
+      - ./output:/app/output    # Save LLM output locally
+
   comparison:
     build:
-      context: .
-      dockerfile: docker/comparison.Dockerfile
+      context: .  # Build comparison service from current directory
+      dockerfile: docker/comparison.Dockerfile  # Use the Dockerfile for comparison logic
     depends_on:
       baseline-processor:
-        condition: service_completed_successfully
+        condition: service_completed_successfully  # Run only after baseline finishes successfully
       text-processor:
-        condition: service_completed_successfully
+        condition: service_completed_successfully  # Run only after LLM processor finishes successfully
     volumes:
-      - ./baseline_outputs:/app/baseline_outputs:ro
-      - ./output:/app/output:ro
-      - .:/app
+      - ./baseline_outputs:/app/baseline_outputs:ro  # Mount baseline results as read-only
+      - ./output:/app/output:ro                      # Mount LLM results as read-only
+      - .:/app                                       # Mount the full project for comparison scripts
 
 volumes:
-  ollama_data:
+  ollama_data:  # Define a named volume to persist Ollama data
